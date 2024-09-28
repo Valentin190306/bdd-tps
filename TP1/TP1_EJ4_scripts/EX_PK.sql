@@ -1,0 +1,1 @@
+create exception EX_PK 'No se pueden modificar el NRO o el ISBN';
